@@ -1,0 +1,6 @@
+{
+  "rpc": {
+    "host": "theory.academy",
+    "port": 8545
+  }
+}
